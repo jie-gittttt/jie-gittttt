@@ -1,20 +1,21 @@
+### Personal Repository
 
-
-Preparing for Fall 2027 graduate admission. Undergraduate coursework and personal projects are organized here.
+Projects, research, and study materials.
 
 | Repository | Contents |
 | :--- | :--- |
-| DeepLearning-HW | Neural networks and deep learning — fully-connected networks, CNN image classification, RNN poetry generation, Seq2Seq and attention |
-| parallel-computing | Parallel and distributed systems — MPI message passing, Pthread / OpenMP shared memory, CUDA heterogeneous computing |
-| stochastic-processes | Stochastic processes — social network cascades, Brownian motion simulation, Gaussian process regression for stock trend forecasting |
+| DeepLearning-HW | Neural networks and deep learning — ... |
+| parallel-computing | Parallel and distributed systems — ... |
+| stochastic-processes | Stochastic processes — ... |
 
 **Interactive visualizations** — jie-gittttt.github.io/parallel-computing
 **Stack** — Python · C++ · CUDA · MPI · OpenMP · PyTorch · TensorFlow
 
 ────────────────────────────────────────
 
+### 个人仓库
 
-准备 2027 年秋季入学的研究生申请。本科阶段的课程作业与个人项目整理后放在这里。
+存放项目、科研与学习资料。
 
 | 仓库 | 内容 |
 | :--- | :--- |
