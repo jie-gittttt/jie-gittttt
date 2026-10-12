@@ -1,4 +1,4 @@
-### 27Fall Applicant
+
 
 Preparing for Fall 2027 graduate admission. Undergraduate coursework and personal projects are organized here.
 
@@ -13,7 +13,6 @@ Preparing for Fall 2027 graduate admission. Undergraduate coursework and persona
 
 ────────────────────────────────────────
 
-### 27Fall 申请季
 
 准备 2027 年秋季入学的研究生申请。本科阶段的课程作业与个人项目整理后放在这里。
 
