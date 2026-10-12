@@ -1,6 +1,6 @@
 # I'm Jeffrey 👋
 
-I'm a Data Science student at Tongji University interested in machine learning, AI applications, and efficient computing.
+I'm a Data Science student interested in machine learning, AI applications, and efficient computing.
 
 I build projects involving deep learning, probabilistic modeling, and parallel computing, with an emphasis on experiments, performance analysis, and reproducible results.
 
@@ -21,7 +21,7 @@ Python · C++ · CUDA · MPI · OpenMP · PyTorch · TensorFlow
 
 # 我是 Jeffrey 👋
 
-同济大学数据科学专业学生，关注机器学习、AI 应用与高效计算。
+数据科学专业学生，关注机器学习、AI 应用与高效计算。
 
 我的项目涉及深度学习、概率建模与并行计算，重点关注实验设计、性能分析与结果可复现。
 
