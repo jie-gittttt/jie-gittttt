@@ -25,6 +25,8 @@ I'm a Data Science student interested in machine learning and AI systems, combin
 
 Python · C++ · CUDA · MPI · OpenMP · PyTorch · TensorFlow · LangGraph · Vue
 
+[Interactive Parallel Computing Demos](https://jie-gittttt.github.io/parallel-computing/)
+
 ---
 
 # Jeffrey
@@ -53,3 +55,5 @@ Python · C++ · CUDA · MPI · OpenMP · PyTorch · TensorFlow · LangGraph · 
 ## 技术栈
 
 Python · C++ · CUDA · MPI · OpenMP · PyTorch · TensorFlow · LangGraph · Vue
+
+[并行计算交互式演示](https://jie-gittttt.github.io/parallel-computing/)
